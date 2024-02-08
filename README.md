@@ -31,6 +31,8 @@ I am an entrepeneur and Full Stack Developer from Corner Brook, Newfoundland and
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rsmithlal&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rsmithlal&style=flat-square&color=blue" alt=""></p>
+
 ---
 
 ### ✍️ Blog Posts : 
