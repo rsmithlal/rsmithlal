@@ -41,7 +41,8 @@ I am an entrepeneur and Full Stack Developer from Corner Brook, Newfoundland and
 - [Collaborating at the Crossroads: Open Source Meets Cooperatives](https://www.linkedin.com/feed/update/urn:li:activity:7155891996253896704/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+#### Thanks & Credits
+- Thanks to [Nida Khan](https://github.com/itsZed0) for her impressive [GitHub profile README guide](https://www.sitepoint.com/github-profile-readme/)
 
 
 <!--
