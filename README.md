@@ -9,7 +9,7 @@ I am an entrepeneur and Full Stack Developer from Corner Brook, Newfoundland and
 - 🔭 I’m working as a Community Software Developer and contributing to infrastructure, devops, frontend, database, and backend for building web applications.
 - ⚡ Exploring Professional Content Writing.
 - 🌱 In my free time I love to spend time in nature and write about cooperatives, community, and technology.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](robert-smith-better-together)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-smith-better-together/)
 
 ---
 
